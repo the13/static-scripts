@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        lightening_click_script
-// @namespace   https://raw.githubusercontent.com/the13
+// @namespace   Violentmonkey Scripts
 // @match       https://m.cafe.naver.com/ca-fe/web/cafes/30461701/*
 // @match       https://m.cafe.naver.com/ca-fe/web/cafes/27549420/*
 // @version     0.01
